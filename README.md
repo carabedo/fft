@@ -30,3 +30,10 @@ https://developer.nvidia.com/blog/accelerating-random-forests-up-to-45x-using-cu
 ### RAPIDS gpu powered data science
 
 https://rapids.ai
+
+
+## Links M1:
+
+https://nod.ai/pytorch-m1-max-gpu/
+
+https://wandb.ai/tcapelle/apple_m1_pro/reports/Deep-Learning-on-the-M1-Pro-with-Apple-Silicon---VmlldzoxMjQ0NjY3
