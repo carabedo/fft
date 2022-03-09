@@ -3,9 +3,7 @@
 ![image](https://user-images.githubusercontent.com/64593873/157443235-12328acd-253f-4eee-a194-92fa4c51a3b0.png)
 
 
-## Tutorial
 
-https://www.geeksforgeeks.org/running-python-script-on-gpu/
 
 ### CUDA
 
@@ -15,10 +13,14 @@ https://en.wikipedia.org/wiki/CUDA
 
 https://numba.readthedocs.io/en/stable/cuda/overview.html
 
+## Ejemplos:
+
 ### gpu programming example (mandelbrot):
 
 https://colab.research.google.com/drive/1idGyJhno1NqEUyGRfaZT5ALm6rHrYaIp?usp=sharing
 
+
+## Links:
 
 ### cuML
 
