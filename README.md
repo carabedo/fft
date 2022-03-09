@@ -1,8 +1,11 @@
-# fft
+# GPU programming
 
 ![image](https://user-images.githubusercontent.com/64593873/157443235-12328acd-253f-4eee-a194-92fa4c51a3b0.png)
 
 
+## Tutorial
+
+https://www.geeksforgeeks.org/running-python-script-on-gpu/
 
 ### CUDA
 
