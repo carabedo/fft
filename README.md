@@ -14,8 +14,8 @@ https://numba.readthedocs.io/en/stable/cuda/overview.html
 
 ### gpu programming example (mandelbrot):
 
+https://colab.research.google.com/drive/1idGyJhno1NqEUyGRfaZT5ALm6rHrYaIp?usp=sharing
 
-https://colab.research.google.com/github/noahgift/cloud-data-analysis-at-scale/blob/master/GPU_Programming.ipynb
 
 ### cuML
 
