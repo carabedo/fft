@@ -20,3 +20,8 @@ https://colab.research.google.com/github/noahgift/cloud-data-analysis-at-scale/b
 ### cuML
 
 https://developer.nvidia.com/blog/accelerating-random-forests-up-to-45x-using-cuml/
+
+
+### RAPIDS gpu powered data science
+
+https://rapids.ai
