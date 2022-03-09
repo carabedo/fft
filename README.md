@@ -15,7 +15,7 @@ https://numba.readthedocs.io/en/stable/cuda/overview.html
 
 ## Ejemplos:
 
-### gpu programming example (mandelbrot):
+### mandelbrot:
 
 https://colab.research.google.com/drive/1idGyJhno1NqEUyGRfaZT5ALm6rHrYaIp?usp=sharing
 
