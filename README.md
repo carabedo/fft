@@ -1,6 +1,6 @@
 # fft
 
-https://docs.nvidia.com/cuda/cuda-c-programming-guide/graphics/gpu-devotes-more-transistors-to-data-processing.png![image](https://user-images.githubusercontent.com/64593873/157443235-12328acd-253f-4eee-a194-92fa4c51a3b0.png)
+![image](https://user-images.githubusercontent.com/64593873/157443235-12328acd-253f-4eee-a194-92fa4c51a3b0.png)
 
 
 
