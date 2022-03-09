@@ -34,6 +34,8 @@ https://rapids.ai
 
 ## Links M1:
 
+https://www.anaconda.com/blog/apple-silicon-transition
+
 https://nod.ai/pytorch-m1-max-gpu/
 
 https://wandb.ai/tcapelle/apple_m1_pro/reports/Deep-Learning-on-the-M1-Pro-with-Apple-Silicon---VmlldzoxMjQ0NjY3
