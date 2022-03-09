@@ -1,5 +1,14 @@
 # fft
 
+
+### CUDA
+
+https://en.wikipedia.org/wiki/CUDA
+
+### Numba
+
+https://numba.readthedocs.io/en/stable/cuda/overview.html
+
 ### gpu programming:
 
 
